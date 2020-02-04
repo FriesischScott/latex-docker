@@ -1,6 +1,6 @@
 Latex Docker Container
 =====
-This container helps compiling latex sources without the need to install all latex packages on your system. It is based on ubuntu:devel (artful) to use TeX Live 2017.
+This container helps compiling latex sources without the need to install all latex packages on your system. It is based on ubuntu:rolling to use TeX Live 2019.
 
 Gitlab CI
 -----
